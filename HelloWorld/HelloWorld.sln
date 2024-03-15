@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "HelloWorld.Esp32", "HelloWorld.Esp32\HelloWorld.Esp32.nfproj", "{18D1D1D5-E94D-4B31-867D-A4DB66EDEEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D1D1D5-E94D-4B31-867D-A4DB66EDEEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D1D1D5-E94D-4B31-867D-A4DB66EDEEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D1D1D5-E94D-4B31-867D-A4DB66EDEEB6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{18D1D1D5-E94D-4B31-867D-A4DB66EDEEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D1D1D5-E94D-4B31-867D-A4DB66EDEEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D1D1D5-E94D-4B31-867D-A4DB66EDEEB6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1C15AA-1215-49AE-B2DA-FB717AFAF0A6}
+	EndGlobalSection
+EndGlobal
